@@ -1,0 +1,62 @@
+f2f34f7 HEAD@{0}: commit: Added README.md file
+89a08b2 HEAD@{1}: merge develop: Fast-forward
+8fe196c HEAD@{2}: checkout: moving from develop to main
+89a08b2 HEAD@{3}: merge advancedOperation: Fast-forward
+c669314 HEAD@{4}: checkout: moving from advancedOperation to develop
+89a08b2 HEAD@{5}: commit: Added first line to first add method with two parameters
+c50072d HEAD@{6}: checkout: moving from ad953c659e436f03a0940de236d13a67350eecde to advancedOperation
+ad953c6 HEAD@{7}: checkout: moving from advancedOperation to HEAD~2
+c50072d HEAD@{8}: commit: Added add method with 4 parameters
+9c73d9e HEAD@{9}: commit: Added add method with 3 parameters
+ad953c6 HEAD@{10}: commit: Added add method with 2 parameters
+c669314 HEAD@{11}: checkout: moving from develop to advancedOperation
+c669314 HEAD@{12}: checkout: moving from otherOperation to develop
+a213b8f HEAD@{13}: rebase (finish): returning to refs/heads/otherOperation
+a213b8f HEAD@{14}: rebase (squash): Added implementation for subtraction, division, multiplication, and
+521a4e6 HEAD@{15}: rebase (squash): # This is a combination of 3 commits.
+199d9fb HEAD@{16}: rebase (squash): # This is a combination of 2 commits.
+950ddef HEAD@{17}: rebase (start): checkout develop
+51ae885 HEAD@{18}: rebase (abort): updating HEAD
+5b3310b HEAD@{19}: commit (amend): Added Base.java with add method
+c669314 HEAD@{20}: rebase (start): checkout develop
+51ae885 HEAD@{21}: commit: Return sqrt method to Base.java file
+e43d617 HEAD@{22}: reset: moving to e43d617bfdb20e03d1e2690ff4314a68ce5b3c3e
+f76b5f0 HEAD@{23}: commit: Changed sqrt method to sqrtBad
+e43d617 HEAD@{24}: reset: moving to HEAD~1
+b6b74e3 HEAD@{25}: commit: Added to Base.java sqrt method
+e43d617 HEAD@{26}: commit: Added mult method to Base.java
+776144b HEAD@{27}: commit: Added dix method to Base.java
+950ddef HEAD@{28}: commit: Added to Base.java sub method
+c669314 HEAD@{29}: checkout: moving from develop to otherOperation
+c669314 HEAD@{30}: commit: Added Base.java with add method
+8fe196c HEAD@{31}: checkout: moving from main to develop
+8fe196c HEAD@{32}: merge develop: Fast-forward
+00ac01c HEAD@{33}: checkout: moving from develop to main
+8fe196c HEAD@{34}: commit (merge): Resolved conflicts with branch_two
+28be0ce HEAD@{35}: merge branch_one: Fast-forward
+838f263 HEAD@{36}: checkout: moving from branch_two to develop
+4f90049 HEAD@{37}: commit: Added changes from branch_two
+838f263 HEAD@{38}: checkout: moving from develop to branch_two
+838f263 HEAD@{39}: checkout: moving from branch_one to develop
+28be0ce HEAD@{40}: commit: Added changes from branch_one
+838f263 HEAD@{41}: checkout: moving from develop to branch_one
+838f263 HEAD@{42}: commit: Second file
+00ac01c HEAD@{43}: checkout: moving from main to develop
+00ac01c HEAD@{44}: checkout: moving from develop to main
+00ac01c HEAD@{45}: commit (merge): Resolved merge conflict
+5e5771c HEAD@{46}: merge image_branch: Fast-forward
+c59d396 HEAD@{47}: checkout: moving from new-styles to develop
+1f4ad21 HEAD@{48}: commit: Added styles to index.html file
+8c1f2f7 HEAD@{49}: commit: Added styles folder and CSS file
+c59d396 HEAD@{50}: checkout: moving from develop to new-styles
+c59d396 HEAD@{51}: reset: moving to HEAD^
+6c68c1e HEAD@{52}: commit: Clean the context of index.html file
+c59d396 HEAD@{53}: reset: moving to HEAD^
+5590c99 HEAD@{54}: checkout: moving from image_branch to develop
+5e5771c HEAD@{55}: commit: Added html code to index.html file
+82d4aa2 HEAD@{56}: checkout: moving from develop to image_branch
+5590c99 HEAD@{57}: commit: Added html code to index.html file
+c59d396 HEAD@{58}: checkout: moving from image_branch to develop
+82d4aa2 HEAD@{59}: commit: Added Images folder with two images
+c59d396 HEAD@{60}: checkout: moving from develop to image_branch
+c59d396 HEAD@{61}: commit (initial): Added empty index.html file
